@@ -1,0 +1,5 @@
+#a program to find area of circle
+print("enter radius of circle")
+r=float(input())
+area=3.14159265359*r*r  #pi=3.14......
+print("area of circle is : ",area)
